@@ -1,0 +1,40 @@
+body
+{
+  background-color: antiquewhite;
+}
+
+hr
+{
+  background-color: white;
+  border-style: none;
+  border-top-style:dotted;
+  border-color: crimson;
+  border-width: 5px;
+  width: 30%;
+}
+h1
+{
+  color: #FB7777;
+}
+h3
+{
+  color: salmon;
+}
+p
+{
+  color:dodgerblue;
+}
+td
+{
+  color:dodgerblue;
+}
+li
+{
+  color:dodgerblue;
+}
+
+/******************************CLASS SELECTORS*****************/
+.circular
+{
+  border-radius: 100%;
+}
